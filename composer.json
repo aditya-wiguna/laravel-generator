@@ -1,6 +1,6 @@
 {
-    "name": "smartervision/laravel-generator",
-    "description": "Smarter Vision Generator",
+    "name": "adityawiguna12/laravel-generator",
+    "description": "Laravel CRUD Generator",
     "keywords": [
         "laravel",
         "api",
